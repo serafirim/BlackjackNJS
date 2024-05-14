@@ -13,7 +13,7 @@ function createDeck() {
       deck.push(`${rank} of ${suit}`)
     }
   }
-  return deck
+  return deck 
 }
 
 // Shuffle the deck (simplified shuffle for demonstration)
